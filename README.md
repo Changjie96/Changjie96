@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Changjie96
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Chang Jie.
+- 👀 I just graduated from Le Wagon Singapore bootcamp.
 - 🌱 I’m currently taking cs50 course and planning to take React course soon.
-- 📫 How to reach me ...
+- 📫 Reach me by my email: tan7cj@gmail.com
 
 <!---
 Changjie96/Changjie96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
