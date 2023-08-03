@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chang Jie.
 - 👀 I just graduated from Le Wagon Singapore bootcamp.
-- 🌱 I’m currently taking cs50 course and planning to take React course soon.
+- 🌱 I’m currently taking cs50 course and React course.
 - 📫 Reach me by my email: tan7cj@gmail.com
 
 <!---
